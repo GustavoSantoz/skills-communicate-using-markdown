@@ -7,3 +7,8 @@
 - Commits
 
 ![Hi!](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+
+**Para Adição de imagens**
+```
+![Texto Alternativo](link-da-imagem)
+```
